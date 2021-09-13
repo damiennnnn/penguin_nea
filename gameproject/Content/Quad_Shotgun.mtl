@@ -1,0 +1,16 @@
+# Blender MTL File: 'SciGun_A.blend'
+# Material Count: 1
+
+newmtl Quad_Shotgun
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\gameproject\\gameproject\\Content\\quadgun\\T_Quad_Shotgun_NOpenGL.png
+map_Kd E:\\gameproject\\gameproject\\Content\\quadgun\\T_Quad_Shotgun_BaseColor.png
+map_Ns E:\\gameproject\\gameproject\\Content\\quadgun\\T_Quad_Shotgun_Roughness.png
+refl E:\\gameproject\\gameproject\\Content\\quadgun\\T_Quad_Shotgun_Metallic.png
